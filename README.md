@@ -1,4 +1,4 @@
-# API Bootcamp
+  # API Bootcamp
 
 In this exercise you will code some simple API requests to a API containg a couple of different data types. The focus here is just to get to know the fetch API built-in in JavaScript
 
